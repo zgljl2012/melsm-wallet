@@ -1,0 +1,12 @@
+{
+  "name": "melsm-wallet",
+  "displayName": "melsm-wallet",
+  "expo": {
+    "name": "melsm-wallet",
+    "slug": "melsm-wallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
